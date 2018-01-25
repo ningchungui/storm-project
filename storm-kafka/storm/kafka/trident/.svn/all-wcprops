@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/project/!svn/ver/230/storm-project/storm-kafka/storm/kafka/trident
+END
+StaticBrokerReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/project/!svn/ver/230/storm-project/storm-kafka/storm/kafka/trident/StaticBrokerReader.java
+END
+GlobalPartitionInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/project/!svn/ver/230/storm-project/storm-kafka/storm/kafka/trident/GlobalPartitionInformation.java
+END
+IBrokerReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/project/!svn/ver/230/storm-project/storm-kafka/storm/kafka/trident/IBrokerReader.java
+END
+TridentKafkaEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/project/!svn/ver/263/storm-project/storm-kafka/storm/kafka/trident/TridentKafkaEmitter.java
+END
+Coordinator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/project/!svn/ver/230/storm-project/storm-kafka/storm/kafka/trident/Coordinator.java
+END
+TransactionalTridentKafkaSpout.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/project/!svn/ver/230/storm-project/storm-kafka/storm/kafka/trident/TransactionalTridentKafkaSpout.java
+END
+DefaultCoordinator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/project/!svn/ver/230/storm-project/storm-kafka/storm/kafka/trident/DefaultCoordinator.java
+END
+MaxMetric.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/project/!svn/ver/230/storm-project/storm-kafka/storm/kafka/trident/MaxMetric.java
+END
+ZkBrokerReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/project/!svn/ver/230/storm-project/storm-kafka/storm/kafka/trident/ZkBrokerReader.java
+END
+OpaqueTridentKafkaSpout.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/project/!svn/ver/230/storm-project/storm-kafka/storm/kafka/trident/OpaqueTridentKafkaSpout.java
+END
+TridentKafkaConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/project/!svn/ver/230/storm-project/storm-kafka/storm/kafka/trident/TridentKafkaConfig.java
+END
+IBatchCoordinator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/project/!svn/ver/230/storm-project/storm-kafka/storm/kafka/trident/IBatchCoordinator.java
+END

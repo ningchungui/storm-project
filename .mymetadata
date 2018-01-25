@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="storm-project"
+  id="myeclipse.1406603775969"
+  context-root="/storm-project"
+  j2ee-spec="5.0"
+  archive="storm-project.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
